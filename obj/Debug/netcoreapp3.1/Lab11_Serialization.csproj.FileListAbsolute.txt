@@ -1,0 +1,14 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Lab11_Serialization.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Lab11_Serialization.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Lab11_Serialization.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Lab11_Serialization.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Lab11_Serialization.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Lab11_Serialization.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\obj\Debug\netcoreapp3.1\Lab11_Serialization.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\obj\Debug\netcoreapp3.1\Lab11_Serialization.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\obj\Debug\netcoreapp3.1\Lab11_Serialization.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\obj\Debug\netcoreapp3.1\Lab11_Serialization.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\obj\Debug\netcoreapp3.1\Lab11_Serialization.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\bin\Debug\netcoreapp3.1\SoapFormatter.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Lab11_Serialization\obj\Debug\netcoreapp3.1\Lab11_Serialization.csproj.CopyComplete
